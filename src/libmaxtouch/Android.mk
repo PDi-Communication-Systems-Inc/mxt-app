@@ -16,6 +16,6 @@ LOCAL_SRC_FILES := \
   hidraw/hidraw_device.c \
   usb/usb_device.c
 LOCAL_MODULE := maxtouch
-LOCAL_STATIC_LIBRARIES := libusbdroid
+#LOCAL_STATIC_LIBRARIES := libusbdroid
 
 include $(BUILD_STATIC_LIBRARY)
