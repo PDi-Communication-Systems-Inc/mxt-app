@@ -39,8 +39,8 @@
 #include <stdio.h>
 #include <libgen.h>
 
-#include "libmaxtouch/log.h"
-#include "libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/log.h"
+#include "../libmaxtouch/libmaxtouch.h"
 #include "sysfs_device.h"
 #include "dmesg.h"
 

@@ -38,9 +38,9 @@
 #include <malloc.h>
 #include <stdlib.h>
 
-#include "libmaxtouch/libmaxtouch.h"
-#include "libmaxtouch/utilfuncs.h"
-#include "libmaxtouch/info_block.h"
+#include "../libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/utilfuncs.h"
+#include "../libmaxtouch/info_block.h"
 
 #include "mxt_app.h"
 

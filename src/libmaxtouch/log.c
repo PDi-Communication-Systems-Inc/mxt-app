@@ -32,7 +32,7 @@
 #include "malloc.h"
 
 #include "libmaxtouch.h"
-#include "libmaxtouch/utilfuncs.h"
+#include "utilfuncs.h"
 
 #if ANDROID
 #include <android/log.h>

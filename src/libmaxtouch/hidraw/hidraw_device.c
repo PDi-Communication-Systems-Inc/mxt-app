@@ -42,7 +42,7 @@ struct mxt_device;
 struct mxt_conn_info;
 
 #include "hidraw_device.h"
-#include "libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/libmaxtouch.h"
 
 #define HIDRAW_CMD_ID             0x51
 

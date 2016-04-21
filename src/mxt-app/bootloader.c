@@ -35,13 +35,13 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 
-#include "libmaxtouch/libmaxtouch.h"
-#include "libmaxtouch/info_block.h"
-#include "libmaxtouch/log.h"
-#include "libmaxtouch/sysfs/sysfs_device.h"
+#include "../libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/info_block.h"
+#include "../libmaxtouch/log.h"
+#include "../libmaxtouch/sysfs/sysfs_device.h"
 
 #ifdef HAVE_LIBUSB
-#include "libmaxtouch/usb/usb_device.h"
+#include "../libmaxtouch/usb/usb_device.h"
 #endif
 
 #include "mxt_app.h"

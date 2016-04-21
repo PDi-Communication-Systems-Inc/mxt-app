@@ -29,8 +29,8 @@
 
 #include <stdlib.h>
 
-#include "libmaxtouch/libmaxtouch.h"
-#include "libmaxtouch/log.h"
+#include "../libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/log.h"
 
 #include "buffer.h"
 

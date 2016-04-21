@@ -33,7 +33,7 @@
 
 #include "com_atmel_Maxtouch_MaxtouchJni.h"
 #include "jni.h"
-#include "libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/libmaxtouch.h"
 #include <android/log.h>
 
 struct libmaxtouch_ctx *ctx;

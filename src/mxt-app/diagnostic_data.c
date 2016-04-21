@@ -39,10 +39,10 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 
-#include "libmaxtouch/libmaxtouch.h"
-#include "libmaxtouch/info_block.h"
-#include "libmaxtouch/log.h"
-#include "libmaxtouch/utilfuncs.h"
+#include "../libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/info_block.h"
+#include "../libmaxtouch/log.h"
+#include "../libmaxtouch/utilfuncs.h"
 
 #include "mxt_app.h"
 

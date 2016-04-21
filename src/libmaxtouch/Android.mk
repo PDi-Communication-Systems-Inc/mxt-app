@@ -17,5 +17,6 @@ LOCAL_SRC_FILES := \
   usb/usb_device.c
 LOCAL_MODULE := maxtouch
 #LOCAL_STATIC_LIBRARIES := libusbdroid
+LOCAL_SHARED_LIBRARIES := libusb1.0
 
 include $(BUILD_STATIC_LIBRARY)

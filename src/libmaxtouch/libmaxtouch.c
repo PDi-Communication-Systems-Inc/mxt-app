@@ -35,7 +35,7 @@
 #include <errno.h>
 
 #include "libmaxtouch.h"
-#include "libmaxtouch/sysfs/dmesg.h"
+#include "sysfs/dmesg.h"
 #include "msg.h"
 
 //******************************************************************************

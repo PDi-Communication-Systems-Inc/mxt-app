@@ -40,7 +40,7 @@ struct mxt_device;
 struct mxt_conn_info;
 
 #include "i2c_dev_device.h"
-#include "libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/libmaxtouch.h"
 
 #define I2C_SLAVE_FORCE 0x0706
 

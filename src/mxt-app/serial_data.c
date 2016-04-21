@@ -36,10 +36,10 @@
 #include <unistd.h>
 #include <limits.h>
 
-#include "libmaxtouch/libmaxtouch.h"
-#include "libmaxtouch/info_block.h"
-#include "libmaxtouch/utilfuncs.h"
-#include "libmaxtouch/log.h"
+#include "../libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/info_block.h"
+#include "../libmaxtouch/utilfuncs.h"
+#include "../libmaxtouch/log.h"
 
 #include "mxt_app.h"
 #include "buffer.h"

@@ -41,9 +41,9 @@
 #include <inttypes.h>
 #include <poll.h>
 
-#include "libmaxtouch/libmaxtouch.h"
-#include "libmaxtouch/log.h"
-#include "libmaxtouch/utilfuncs.h"
+#include "../libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/log.h"
+#include "../libmaxtouch/utilfuncs.h"
 
 #include "mxt_app.h"
 #include "buffer.h"

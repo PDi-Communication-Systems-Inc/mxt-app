@@ -44,8 +44,8 @@
 
 #define MAX_DMESG_COUNT       (500)
 
-#include "libmaxtouch/log.h"
-#include "libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/log.h"
+#include "../libmaxtouch/libmaxtouch.h"
 #include "sysfs_device.h"
 
 #include "dmesg.h"

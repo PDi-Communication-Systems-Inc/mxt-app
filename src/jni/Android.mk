@@ -8,6 +8,7 @@ LOCAL_SRC_FILES := jniinterface.c
 LOCAL_LDLIBS := -llog
 #LOCAL_STATIC_LIBRARIES := maxtouch libusbdroid
 LOCAL_STATIC_LIBRARIES := maxtouch
+LOCAL_SHARED_LIBRARIES := libusb1.0
 LOCAL_MODULE    := libmaxtouch-jni
 
 include $(BUILD_SHARED_LIBRARY)

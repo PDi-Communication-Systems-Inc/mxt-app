@@ -38,9 +38,9 @@
 #include <sys/types.h>
 #include <time.h>
 
-#include "libmaxtouch/libmaxtouch.h"
-#include "libmaxtouch/info_block.h"
-#include "libmaxtouch/log.h"
+#include "../libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/info_block.h"
+#include "../libmaxtouch/log.h"
 
 #include "mxt_app.h"
 

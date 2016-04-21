@@ -33,9 +33,9 @@
 #include <inttypes.h>
 #include <string.h>
 
-#include "libmaxtouch/log.h"
-#include "libmaxtouch/libmaxtouch.h"
-#include "libmaxtouch/info_block.h"
+#include "../libmaxtouch/log.h"
+#include "../libmaxtouch/libmaxtouch.h"
+#include "../libmaxtouch/info_block.h"
 #include "usb_device.h"
 
 /* USB device configuration */
